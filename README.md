@@ -89,7 +89,7 @@ _(Insert screenshots of query output or any dashboards you make)_
 ## 🤝 Let’s Connect
 
 If you liked this project, give it a ⭐  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile) 💼
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/devyansh-thakur-8abb6335b) 💼
 
 ---
 
